@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/workspace/0111/scala/hello-actor" value="1436373821000" />
+        <entry key="$USER_HOME$/workspace/io/hello-spark" value="1444643335000" />
+        <entry key="$USER_HOME$/workspace/io/scala/hello-slick-3.0" value="1463039930000" />
+        <entry key="$USER_HOME$/workspace/io/spark-jobserver" value="1448941173000" />
+        <entry key="$USER_HOME$/workspace/io/spark-streaming-scala-akka" value="1444808806000" />
+        <entry key="$USER_HOME$/workspace/nal/spark-demo/spark-streaming-scala-akka" value="1444808806000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+</project>
